@@ -1,8 +1,14 @@
 {
   "name": "material-demo",
-  "description": "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/tables/EnhancedTable.js",
+  "description":
+    "https://github.com/mui-org/material-ui/tree/master/docs/src/pages/demos/tables/EnhancedTable.js",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "@material-ui/core": "1.2.1",
+    "@material-ui/icons": "1.1.0",
+    "react": "16.4.0",
+    "react-dom": "16.4.0"
+  },
   "devDependencies": {
     "react-scripts": "1.0.0"
   },
